@@ -328,3 +328,16 @@ body {
     text-decoration: none;
     color: black;
 }
+
+footer {
+  background-color: #f0f0f0;
+  padding: 20px;
+  text-align: center;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* Add more CSS styles as needed */
